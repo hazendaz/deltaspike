@@ -35,7 +35,7 @@ link:/documentation/modules.html[View details »]
 [options="header,footer"]
 |===
 |*News* | *Examples*
-| Apache DeltaSpike 2.0.0 supporting JakartaEE is now out!
+| Apache DeltaSpike 2.0.1 supporting JakartaEE is now out!
 
 link:/news.html[View details »]
 
